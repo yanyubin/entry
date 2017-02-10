@@ -1,5 +1,5 @@
 # node
-
+### 日期格式化
 ```javascript 
 'use strict';
 // 对Date的扩展，将 Date 转化为指定格式的String
